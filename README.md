@@ -1,2 +1,2 @@
 # pwii-lais-ferrari
-Aulas de programação Web II com os Professores João Siles e Ricardo Palhares
+Aulas de Programação Web II com os Professores João Siles e Ricardo Palhares
